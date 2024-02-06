@@ -15,7 +15,8 @@ This repository contains Python code demonstrating polynomial interpolation usin
 5. Experiment with different sets of data points and interpolation methods to observe variations in the interpolating polynomials.
 
 ## Description
-The notebook begins by defining functions for computing divided differences and coefficients required for Newton's polynomial interpolation. It then generates a set of data points from a trigonometric function \( y = \sin(x) \) in the range \( [0, \frac{\pi}{2}] \).
+The notebook begins by defining functions for computing divided differences and coefficients required for Newton's polynomial interpolation. It then generates a set of data points from a trigonometric function y = sin(x) in the range [0,π/2].
+
 
 The code proceeds to calculate the interpolating polynomials using both Lagrange and Newton interpolation methods. Finally, it plots the interpolating polynomials alongside the original data points, allowing for comparison of their behavior and accuracy.
 
